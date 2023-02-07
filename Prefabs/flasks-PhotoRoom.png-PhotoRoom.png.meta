@@ -1,34 +1,7 @@
 fileFormatVersion: 2
-guid: 3886cb7b8049fb044b4a74994a68db49
+guid: cb2507f437b51d94c9ad3d410e5bd67f
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -8634526675880240110
-    second: mouse-sprite-sheet-final_0
-  - first:
-      213: 1926437751325886886
-    second: mouse-sprite-sheet-final_1
-  - first:
-      213: 2881715502548108373
-    second: mouse-sprite-sheet-final_2
-  - first:
-      213: 4190880629804202372
-    second: mouse-sprite-sheet-final_3
-  - first:
-      213: 3681439829417042271
-    second: mouse-sprite-sheet-final_4
-  - first:
-      213: -351580563546263744
-    second: mouse-sprite-sheet-final_5
-  - first:
-      213: -8217276424791967583
-    second: mouse-sprite-sheet-final_6
-  - first:
-      213: -2718186141624898984
-    second: mouse-sprite-sheet-final_7
-  - first:
-      213: -5158864687177507556
-    second: mouse-sprite-sheet-final_8
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -92,11 +65,11 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -108,19 +81,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 16384
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -132,7 +93,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -144,7 +105,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -156,7 +117,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 16384
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -168,7 +141,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -180,7 +153,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: tvOS
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -194,13 +167,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_0
+      name: flasks-PhotoRoom.png-PhotoRoom_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 276
-        width: 94
-        height: 112
+        x: 89
+        y: 877
+        width: 341
+        height: 374
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21c16886cbffb2880800000000000000
-      internalID: -8634526675880240110
+      spriteID: 8e71d01e74c30fe449191af7afe85824
+      internalID: 469454353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_1
+      name: flasks-PhotoRoom.png-PhotoRoom_2
       rect:
         serializedVersion: 2
-        x: 261
-        y: 276
-        width: 94
-        height: 112
+        x: 767
+        y: 876
+        width: 290
+        height: 372
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a98ea99de41cba10800000000000000
-      internalID: 1926437751325886886
+      spriteID: 2d407ff15db611f4ab81cbdf60dfdb79
+      internalID: -1850715597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_2
+      name: flasks-PhotoRoom.png-PhotoRoom_3
       rect:
         serializedVersion: 2
-        x: 387
-        y: 276
-        width: 94
-        height: 112
+        x: 123
+        y: 504
+        width: 273
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 554cd194bf8edf720800000000000000
-      internalID: 2881715502548108373
+      spriteID: d82c3949d3cbbca40917c083c84e3f1c
+      internalID: -249901176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_3
+      name: flasks-PhotoRoom.png-PhotoRoom_4
       rect:
         serializedVersion: 2
-        x: 512
-        y: 276
-        width: 94
-        height: 112
+        x: 802
+        y: 504
+        width: 221
+        height: 373
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4897b838abff82a30800000000000000
-      internalID: 4190880629804202372
+      spriteID: cba157cff3a4865409b16d7274ee8c3a
+      internalID: 967946140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_4
+      name: flasks-PhotoRoom.png-PhotoRoom_5
       rect:
         serializedVersion: 2
-        x: 153
-        y: 143
-        width: 63
-        height: 112
+        x: 752
+        y: 146
+        width: 339
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f51a06e050a171330800000000000000
-      internalID: 3681439829417042271
+      spriteID: f30061a30b9528143a00d7519c36943f
+      internalID: -1304342019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mouse-sprite-sheet-final_5
+      name: flasks-PhotoRoom.png-PhotoRoom_6
       rect:
         serializedVersion: 2
-        x: 279
-        y: 140
-        width: 62
-        height: 115
+        x: 88
+        y: 148
+        width: 306
+        height: 356
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,71 +286,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04fa4e7175fee1bf0800000000000000
-      internalID: -351580563546263744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mouse-sprite-sheet-final_6
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 143
-        width: 63
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a8351fe0ae56fd80800000000000000
-      internalID: -8217276424791967583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mouse-sprite-sheet-final_7
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 143
-        width: 63
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85aee031b10174ad0800000000000000
-      internalID: -2718186141624898984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mouse-sprite-sheet-final_8
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 10
-        width: 63
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1d5a7c56e70868b0800000000000000
-      internalID: -5158864687177507556
+      spriteID: ae0881d50a2329844a955274f4cc5fc1
+      internalID: -1743738711
       vertices: []
       indices: 
       edges: []
@@ -393,15 +303,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mouse-sprite-sheet-final_1: 1926437751325886886
-      mouse-sprite-sheet-final_5: -351580563546263744
-      mouse-sprite-sheet-final_7: -2718186141624898984
-      mouse-sprite-sheet-final_6: -8217276424791967583
-      mouse-sprite-sheet-final_4: 3681439829417042271
-      mouse-sprite-sheet-final_3: 4190880629804202372
-      mouse-sprite-sheet-final_0: -8634526675880240110
-      mouse-sprite-sheet-final_8: -5158864687177507556
-      mouse-sprite-sheet-final_2: 2881715502548108373
+      flasks-PhotoRoom.png-PhotoRoom_1: 1539680908
+      flasks-PhotoRoom.png-PhotoRoom_2: -1850715597
+      flasks-PhotoRoom.png-PhotoRoom_5: -1304342019
+      flasks-PhotoRoom.png-PhotoRoom_4: 967946140
+      flasks-PhotoRoom.png-PhotoRoom_6: -1743738711
+      flasks-PhotoRoom.png-PhotoRoom_3: -249901176
+      flasks-PhotoRoom.png-PhotoRoom_0: 469454353
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
